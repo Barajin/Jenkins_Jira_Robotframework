@@ -18,11 +18,13 @@ TestCase3
     [Tags]    Scenario_1
     ExampleLogs
    
+TestCaeXrayBot
+    Log    Hello world
+    
+
 ***Keywords***
 ExampleLogs
     Log    This is an example of log
     Log    This is another example
     Log    Tired of examples
     
-TestCaeXrayBot
-    Log    Hello world
