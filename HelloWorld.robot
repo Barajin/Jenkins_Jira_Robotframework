@@ -4,7 +4,7 @@ This is my first test case
     Log    Hello World Greatings from Jenkins
     Log    Hello from the other side
     Log    I came to say hello
-    FAIL   Why not?
+    
 TestCase1
     
     Log    Hello World Greatings from Jenkins
@@ -16,7 +16,7 @@ TestCase2
     
 TestCase3 
     [Tags]    Scenario_1
-    ExampleLsogs
+    ExampleLogs
    
 ***Keywords***
 ExampleLogs
