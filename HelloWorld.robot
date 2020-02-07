@@ -13,3 +13,13 @@ TestCase1
 TestCase2
     Log    Im tired
     Log    Don't make me say hello again
+    
+TestCase3 
+    [Tags]    Scenario_1
+    ExampleLsogs
+   
+***Keywords***
+ExampleLogs
+    Log    This is an example of log
+    Log    This is another example
+    Log    Tired of examples
