@@ -20,7 +20,9 @@ TestCase3
    
 TestCaeXrayBot
     Log    Hello world
-    
+   
+TestCaseSample
+    Log    this is an example of test case creation
 
 ***Keywords***
 ExampleLogs
